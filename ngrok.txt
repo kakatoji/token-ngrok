@@ -1,3 +1,0 @@
-my token
-
-./ngrok authtoken 5AQMzm5nV5BbCGvhmjAjN_3QyrCwfz57e3WSshb5u3J
